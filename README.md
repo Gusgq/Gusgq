@@ -1,4 +1,4 @@
-### Hi there i'm Gustavo Gomez👋
+### Hi there i'm Gustavo Gomez <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px">
 - 🌱 I’m currently learning JavaScript
 
 <!--
