@@ -1,5 +1,5 @@
 ### Hi there i'm Gustavo Gomez👋
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning JavaScript
 
 <!--
 **Gusgq/Gusgq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
