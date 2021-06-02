@@ -1,5 +1,6 @@
 ### Hi there i'm Gustavo Gomez <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px">
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript, CSS, and HTML. 
+- 😄 Eternal student
 
 <!--
 **Gusgq/Gusgq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
